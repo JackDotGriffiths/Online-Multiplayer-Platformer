@@ -13,7 +13,7 @@
     "jquery": "^3.4.1",
     "microtime": "^3.0.0",
     "mongoose": "^5.8.4",
-    "phaser": "^3.21.0",
+    "phaser": "^3.55.2",
     "request": "^2.88.0",
     "socket.io": "^2.3.0",
     "bootstrap": "^4.4.1"
